@@ -3,20 +3,6 @@
     "black": {
       "100": {
         "$type": "color",
-        "$value": "#f68695",
-        "$description": "",
-        "$extensions": {
-          "com.figma": {
-            "hiddenFromPublishing": false,
-            "scopes": [
-              "ALL_SCOPES"
-            ],
-            "codeSyntax": {}
-          }
-        }
-      },
-      "200": {
-        "$type": "color",
         "$value": "#000000",
         "$description": "",
         "$extensions": {
@@ -29,7 +15,7 @@
           }
         }
       },
-      "200x": {
+      "200": {
         "$type": "color",
         "$value": "#000000",
         "$description": "",
